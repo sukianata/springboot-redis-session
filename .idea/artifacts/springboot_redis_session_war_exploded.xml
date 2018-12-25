@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springboot-redis-session:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springboot_redis_session_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springboot-redis-session/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springboot-redis-session" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
